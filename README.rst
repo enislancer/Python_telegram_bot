@@ -109,7 +109,7 @@ Or you can install from source with:
 
 .. code:: shell
 
-    $ git clone https://github.com/python-telegram-bot/python-telegram-bot --recursive
+    $ git clone https://github.com/SuperStarDev51/python_telegram_bot.git --recursive
     $ cd python-telegram-bot
     $ python setup.py install
     
